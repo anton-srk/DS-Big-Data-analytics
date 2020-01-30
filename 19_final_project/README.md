@@ -4,13 +4,13 @@
 
 The code is organized is follows:
 
-_0 - FE_ is the feature engineering part;
+__0 - FE__ is the feature engineering part;  
 
-_1 - LOFO_ contains the feature selection code based on the Leave One Feature Out algorithm;
-_1 - Optuna_ is an auxiliary file containing the hyperparameter tuning code carried out using the optuna library;
+__1 - LOFO__ contains the feature selection code based on the Leave One Feature Out algorithm;  
+__1 - Optuna__ is an auxiliary file containing the hyperparameter tuning code carried out using the optuna library;  
 
-_2 - LGBM model_ contains the LGBM model;
+__2 - LGBM model__ contains the LGBM model;
 
-_sales_pred_all_together_ is the review notebook with added EDA (was later submitted to kaggle: https://www.kaggle.com/noeasywayout/eda-fe-lgbm-model)
+__sales_pred_all_together__ is the review notebook with added EDA (was later submitted to kaggle: https://www.kaggle.com/noeasywayout/eda-fe-lgbm-model)
 
 
